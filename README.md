@@ -1,6 +1,6 @@
 Opa @frvinizz por aqui.
-Apenas mais um aprendiz... Tenho focado em aprender mais sobre Java Script.
-Pronto para coloborar com todos e assim aprender...
+Sou apenas mais um aprendiz... Estou focado na linguagem Java Script, 
+além disso quero aprender sempre mais e mais...
 
 <!---
 frvinizz/frvinizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
