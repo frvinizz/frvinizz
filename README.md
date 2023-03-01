@@ -1,5 +1,5 @@
 Opa @frvinizz por aqui.
-Sou apenas mais um aprendiz... Estou focado na linguagem Java Script, 
+Sou apenas mais um aprendiz... Atualmente estou focado no desenvolvimento mobile com react-native, 
 além disso quero aprender sempre mais e mais...
 
 <!---
